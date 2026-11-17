@@ -1,68 +1,86 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1536710516288921682/1550960391499157624/elva_1.png?ex=6ab03bec&is=6aaeea6c&hm=6b145493c677c1627e31108aa541ea17058f6a2bda9594702c426161b9affc2a&animated=true" alt="Bannière" width="100%" />
-</p>
+ 
+<div align="center">
 
-<h1 align="center">Coucouu, Je suis Elva</h1>
-<h3 align="center">Passionnée par les Bots Discord</h3>
+<img src="https://media.discordapp.net/attachments/1536710516288921682/1550960391499157624/elva_1.png?ex=6ab03bec&is=6aaeea6c&hm=6b145493c677c1627e31108aa541ea17058f6a2bda9594702c426161b9affc2a&animated=true" width="100%" alt="Elva Banner"/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=elvalavraieoff&label=Profile%20views&color=0e75b6&style=flat" alt="elvalavraieoff" /> 
-</p>
+# ʜᴇʏ, ᴍᴏɪ ᴄ'ᴇsᴛ ᴇʟᴠᴀ ! 🥐
 
-<p align="left"> 
-  <a href="https://twitter.com/elva_4s" target="blank">
-    <img src="https://img.shields.io/twitter/follow/elva_4s?logo=twitter&style=for-the-badge" alt="elva_4s" />
-  </a> 
-</p>
+### Développeuse passionnée par la programmation et l'univers Discord.
 
-- 🥐 Actuellement je travaille sur un tout nouveau Projet... (soon)
-- 💤 A propos de moi : **j’adore coder, créer des bots et explorer tout ce qui touche à la tech, toujours prête à collaborer et apprendre de nouvelles choses.**
-- 🔒 Me contacter : **elvapro7@gmail.com**
+*Building things, learning every day & turning ideas into code.*
 
-<h3 align="left">⭐ › Mes connexions :</h3>
-<p align="left">
-  <a href="https://twitter.com/elva_4s" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elva_4s" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/elvaprv" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvaprv" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/6tFfShvRBQ" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6tFfShvRBQ" height="30" width="40" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=elvalavraieoff&label=VISITES&color=8b9cf6&style=for-the-badge)](https://github.com/elvalavraieoff)
 
-<h3 align="left">🧊 › Langages et Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+</div>
 
-<h3 align="left">💻 › Mes compétences:</h3>
-<p align="left">
-Python       ▰▰▰▰▰▰▰▰▰ 100% <br>
-JavaScript   ▰▰▰▰▰▰▰▱▱ 80% <br>
-Node.js      ▰▰▰▰▰▰▰▱▱ 80% <br>
-PHP       ▰▱▱▱▱▱▱ 2% <br>
-HTML & CSS   ▰▰▰▰▰▰▱▱▱ 78%
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvalavraieoff&show_icons=true&locale=en&layout=compact" alt="elvalavraieoff" />
-</p>
+### ✦・À propos de moi
+
+```js
+const elva = {
+    name: "Elva",
+    role: "Developer",
+    passions: ["Discord Bots", "Programming", "Technology"],
+    currentlyWorkingOn: "A secret project... 👀",
+    motto: "Learn, create, improve and repeat."
+};
+```
+
+- 🥐 Je travaille actuellement sur un nouveau projet... **Stay tuned !**
+- 💻 J'aime développer, créer des bots Discord et donner vie à mes idées.
+- 🧊 Toujours curieuse de découvrir de nouvelles technologies.
+- 🤝 Ouverte aux collaborations et aux nouveaux projets.
+- 📩 Contact : **elvapro7@gmail.com**
+
+---
+
+### ✦・Technologies & outils
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,php,html,css" alt="Languages"/>
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=nodejs,vscode,git,github" alt="Tools"/>
+
+</div>
+
+---
+
+### ✦・GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=elvalavraieoff&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvalavraieoff&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=elvalavraieoff&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+### ✦・Me retrouver ailleurs
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/elva_4s)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elvaprv)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6tFfShvRBQ)
+
+</div>
+
+---
+
+<div align="center">
+
+*« Turning coffee into code ☕ »*
+
+**Thanks for visiting my profile! ♡**
+
+</div>
